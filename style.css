@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    color: rgba(32, 35, 41, 0.9);
+}
+
+h1 {
+
+  border-style: solid;
+  border-radius: 10px;
+  border-color: rgba(32, 35, 41, 0.9);
+}
