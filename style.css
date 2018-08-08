@@ -1,0 +1,9 @@
+body {
+    background-color: #f2f2f2;
+    color: rgba(32, 35, 41, 0.9);
+}
+
+#title{
+  background rgba(32, 35, 41, 0.9);
+  color: #ddd;
+}
