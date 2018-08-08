@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #e0e1e2;
     color: rgba(32, 35, 41, 0.9);
 }
 
@@ -8,4 +8,11 @@ h1 {
   border-style: solid;
   border-radius: 10px;
   border-color: rgba(32, 35, 41, 0.9);
+}
+
+h3{
+
+  border-style: solid;
+  border-radius:10px;
+  border-color:rgba(32, 35, 41, 0.9)
 }
