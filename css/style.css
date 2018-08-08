@@ -11,7 +11,7 @@ body{
   color: #ddd;
 }
 h1{
-  font-size: 50px;
+  font-size: 60px;
   font-family: Bernard MT Condensed;
 }
 head{
@@ -23,9 +23,20 @@ head{
 
 }
 p{
-  font-size: 20;
+  font-size: 30;
+  font-family: Niagara Solid;
 }
 h2{
   font-size: 20px;
   font-family: Bernard MT Condensed;
+}
+h3{
+  font-family: Bernard MT Condensed;
+  font-size: 30px;
+}
+
+h3{
+  border-style: solid;
+  border-radius: 10px;
+  border-color: black;
 }
