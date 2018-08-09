@@ -41,6 +41,8 @@ h3{
   border-color: black;
 }
 
-.boxed{
-  border: 1px solid green;
+.square{
+  width: 200px;
+  height: 200px;
+  background-color: white;
 }
