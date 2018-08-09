@@ -40,9 +40,25 @@ h3{
   border-radius: 10px;
   border-color: black;
 }
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.container {
+    position: relative;
+}
 
-.square{
-  width: 200px;
-  height: 200px;
-  background-color: white;
+.jambatran{
+  margin:auto;
+  padding:auto;
+
+}
+.btn-book{
+  background: black;
+  color: white;
 }
